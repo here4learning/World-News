@@ -24,7 +24,7 @@ This app used following 3rd party Libraries
 
 ## Authors
 
-Arunava Sengupta, 8095846010
+Arunava Sengupta, a.sengupta17@gmail.com
 
 ## Version History
 
